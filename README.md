@@ -61,3 +61,7 @@ Blunt doesn't mean angry. I'm trying to save us both time. I look extroverted at
 ---
 
 That's the manual. Treat it as a cheat sheet for getting the most out of working with me.
+
+---
+
+© Ben Jackson. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Share and adapt freely with attribution.
