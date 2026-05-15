@@ -1,55 +1,67 @@
-👋 Hello, everyone! I'm @actually-autistic, and I am an autistic individual with a co-occurrence of ADHD-C, otherwise known in the neurodvirgent community as an AuDHD. I'd like to share some insights about how we can work together effectively and create an environment where we can all thrive.
+# Working with me
 
-My Idiosyncrasies:
+I'm AuDHD (autistic + ADHD-C). I'd like to share some insights about how we can work together effectively and create an environment where we can all thrive. This is the operating manual.
 
-- Executive dysfunction is a behavioral symptom that disrupts a person's ability to manage their own thoughts, emotions and actions. Emotional regulation is extremely difficult for me. If am being too loud, or too 'extra', please ask me to tone it down, because I may not be aware of my impact.
-- Adults with ADHD exhibit high justice sensitivity. This means I may generally perceive injustice more frequently and intensely, and show stronger emotional and behavioural responses to injustice.
-- I have a preference for wearing the same outfit every day. It's a deliberate choice to reduce decision fatigue and save mental energy for more important matters.
-- I have sensory issues, such as sensitivity to noise, bright lights, restrictive clothing, or warm temperatures. Understanding and accommodating these sensory issues is appreciated.
-- Unexpected touch, especially on my face, can be uncomfortable for me. I am also adverse to hugging, as physical restriction makes me uncomfortable. Please respect my personal boundaries.
-- Wearing a hat and backpack provides comfort and reduces anxiety for me. It's a coping mechanism that helps me feel secure and grounded.
-- While eye contact can be challenging, I'll make an effort to establish it during conversations. Please be patient with me.
-- Engaging in repetitive behaviors, known as stimming, helps me cope with stress and maintain focus. It's a natural part of who I am.
+## Contents
 
-My Style:
+- [Things you'll notice](#things-youll-notice)
+- [How I work](#how-i-work)
+- [What I value](#what-i-value)
+- [How to talk to me](#how-to-talk-to-me)
+- [How you can help me](#how-you-can-help-me)
+- [If I seem frustrated](#if-i-seem-frustrated)
+- [What people get wrong](#what-people-get-wrong)
 
-- I appreciate established rules and structures but am also open to challenging the status quo. If something needs to change, I'm always up for discussing it.
-- I'm energised when I connect dots, people, and resources to turn challenges into opportunities. I prefer enabling others to solve their own problems rather than solving them directly.
-- I enjoy bouncing ideas off others and doing my best thinking out loud. So, feel free to engage in brainstorming sessions or provide feedback.
-- I have high expectations, but I'm equally committed to supporting everyone in meeting those expectations. I believe in giving people freedom, flexibility, and "stretch" assignments that challenge their abilities while equipping them with the necessary tools for personal growth.
-- I value autonomy and expect my team members to excel in their roles, and act independently. However, if they need more guidance or oversight, I encourage them to reach out to me.
+## Things you'll notice
 
-What I Value:
+- **Executive dysfunction is real.** Managing my own thoughts, emotions, and actions is harder for me than it looks from the outside. If I'm being loud or "extra", flag it. I often don't notice my own volume.
+- **Justice sensitivity is dialled up.** ADHD turns this dial way past where most people sit. I notice unfairness faster and react harder. Useful for catching bad design, awkward in tense meetings.
+- **Same outfit every day, on purpose.** Saves the decision budget for things that matter.
+- **Sensory stuff.** Loud rooms, bright lights, tight clothing, warm offices: any of these will burn me down faster than the actual work. If you can tweak the environment, I'll be a better version of myself.
+- **No surprise contact.** Especially not on the face. Hugs are out, physical restriction makes my skin crawl. A wave or a nod is plenty.
+- **Hat and backpack on.** They're a portable nest. If I look like I just got off a school bus, that's why.
+- **Eye contact is work.** I'll do it, but be patient. If I'm looking past you, I'm still listening.
+- **Stimming is normal.** Fidgeting, rocking, tapping, pacing on a call. That's how I stay regulated.
 
-- Honesty, initiative, integrity, and forthrightness are essential to me. I encourage you to make good decisions, be trustworthy, think creatively, and speak up—even if it means admitting a mistake or failure.
-- Efficiency and effective communication are highly valued. Before starting something from scratch, let's explore if it has been attempted before or if there's a simpler way to achieve our goals. Let's work smarter, not harder.
-- Results matter. If you make a commitment, I trust you to follow through. If you encounter challenges or doubts during a project, please let me know in advance so that we can adapt and find solutions together.
+## How I work
 
-How Best to Communicate with Me:
+I like rules and structure, and I like challenging them. If something needs to change, bring it. I'd rather argue about it now than discover it broken in production.
 
-- Be succinct and get to the main point upfront. I appreciate having all the necessary information right away to make informed decisions. If I need additional details, I'll ask for them.
-- My ADHD means that it is difficult for me to context-switch quickly. When approaching me in person, please say my name and give me a few seconds to shift my attention. Online, wait for my response before presenting your information.
-- If online communication becomes challenging, consider reaching out via phone call. I find text-based communication harder to interpret without social cues.
-- Let's aim to achieve our goals in a single conversation whenever possible. Fragmented discussions across multiple conversations can be difficult for me to manage and resolve effectively.
+I do my best thinking out loud. I'll bounce ideas off you, get half of them wrong on purpose, and arrive somewhere useful by the end. Don't treat the early drafts as positions.
 
-How You Can Help Me:
+I'd rather hand you the tools than do your job for you. Stretch assignments, freedom, room to fail safely: that's the loop. If you need more guidance, ask. I won't think less of you.
 
-- Since I catch details in the moment but struggle to remember them later, please ensure that we both have written records of tasks and important information. Let's help each other stay on top of the details.
-- If I happen to be late for a meeting, feel free to nudge me. I often get engrossed in my work and lose track of time. As a result, I'm frequently ten minutes early, or ten minutes late to a meeting.
-- It's crucial that you share the information I need to know, rather than what you think I want to hear. I value the truth, even if it's inconvenient or challenging.
-- If I unknowingly say or do something that impacts you negatively, please let me know. I genuinely care about how my actions are perceived and want to improve.
-- Occasionally, I may come across as dismissive due to my strong convictions. Please call me out if my behavior seems disrespectful, as it's not my intention.
+## What I value
 
-Dealing with Anger:
+Honesty. Initiative. Owning your own mistakes before someone else surfaces them.
 
-- If I seem frustrated or angry, please be patient and consider alternative ways to communicate ideas or concerns. Both my Autism and ADHD mean that my irritability threshold is much lower than the average person - it's not you, it's me. Please try and approach me with empathy, but remain direct and honest.
-- Provide specific feedback about the impact of my actions. Help me understand how my behaviour affects others and offer suggestions for improvement.
-- Encourage me to take ownership of any anger-inducing situations and work together to address the root causes, finding constructive solutions.
+Working smarter. Before you build something from scratch, check if someone already built it. Someone probably has.
 
-What People Misunderstand About Me:
+Following through. If you said you'd do it, do it. If the wheels are coming off, tell me early. We can adapt, we can't time-travel.
 
-- My communication style may seem direct, but it doesn't reflect anger or frustration. I aim for efficiency and clarity.
-- While I may appear extroverted in a professional setting, I'm actually an introvert. I value alone time to recharge, but I'm always open to collaboration.
-- I may struggle with multitasking or handling interruptions. If you need immediate assistance, please make that clear.
+## How to talk to me
 
-Understanding and respecting my communication preferences, work style, and individual needs will create an environment where I can excel and contribute effectively to our team. Let's foster open and honest communication, set clear expectations, and focus on efficiency and results. Together, we can create a productive and inclusive work environment for everyone.
+- **Lead with the point.** Bottom-line up front. I'll ask for context if I want it.
+- **Give me a beat to context-switch.** Say my name, give me a few seconds, then go. Online, wait for me to actually respond before piling more messages on.
+- **If text isn't working, call.** I lose a lot of nuance in chat.
+- **One conversation, one outcome.** Splitting a topic across three threads, a DM, and a meeting is how things get lost.
+
+## How you can help me
+
+- **Write it down.** I'll remember a detail in the moment and forget it by Friday. If it matters, it needs to live somewhere durable.
+- **Nudge me if I'm late.** I'm either ten minutes early or ten minutes late. The middle ground does not exist.
+- **Tell me what I need to hear.** Inconvenient truths are the useful ones.
+- **Tell me if I land badly.** If I've upset you or run someone over, say so. I'd rather know and fix it.
+- **Pull me up if I'm being dismissive.** When I'm certain about something I can come across like a brick wall. That's not the intent.
+
+## If I seem frustrated
+
+My irritability threshold sits lower than most people's. It's how I'm wired. Be patient, stay direct, give me specific feedback about the impact. Don't sugar-coat it, and don't escalate. If there's a root cause we can fix, name it.
+
+## What people get wrong
+
+Blunt doesn't mean angry. I'm trying to save us both time. I look extroverted at work, but I'm an introvert who recharges alone. Interruptions while I'm deep in something don't land well, so if it's urgent, tell me it's urgent. Otherwise it's going on the queue.
+
+---
+
+That's the manual. Treat it as a cheat sheet for getting the most out of working with me.
