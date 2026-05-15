@@ -25,19 +25,15 @@ I'm AuDHD (autistic + ADHD-C). I'd like to share some insights about how we can 
 
 ## How I work
 
-I like rules and structure, and I like challenging them. If something needs to change, bring it. I'd rather argue about it now than discover it broken in production.
-
-I do my best thinking out loud. I'll bounce ideas off you, get half of them wrong on purpose, and arrive somewhere useful by the end. Don't treat the early drafts as positions.
-
-I'd rather hand you the tools than do your job for you. Stretch assignments, freedom, room to fail safely: that's the loop. If you need more guidance, ask. I won't think less of you.
+- I like rules and structure, and I like challenging them. If something needs to change, bring it. I'd rather argue about it now than discover it broken in production.
+- I do my best thinking out loud. I'll bounce ideas off you, get half of them wrong on purpose, and arrive somewhere useful by the end. Don't treat the early drafts as positions.
+- I'd rather hand you the tools than do your job for you. Stretch assignments, freedom, room to fail safely: that's the loop. If you need more guidance, ask. I won't think less of you.
 
 ## What I value
 
-Honesty. Initiative. Owning your own mistakes before someone else surfaces them.
-
-Working smarter. Before you build something from scratch, check if someone already built it. Someone probably has.
-
-Following through. If you said you'd do it, do it. If the wheels are coming off, tell me early. We can adapt, we can't time-travel.
+- Honesty. Initiative. Owning your own mistakes before someone else surfaces them.
+- Working smarter. Before you build something from scratch, check if someone already built it. Someone probably has.
+- Following through. If you said you'd do it, do it. If the wheels are coming off, tell me early. We can adapt, we can't time-travel.
 
 ## How to talk to me
 
